@@ -14,7 +14,7 @@ class CountdownTimer {
         if ((this.tl - Number(today)) > 0 || (this.tl - Number(today)) < -86400000) {
             let timer = '';
             timer += `
-            <p>Soon to come.... Yipieee</p>
+            <p>Soon to come vava.... Yipieee</p>
             <div class="number">
                 <p>
                     <span class="number-day">${day}</span>
