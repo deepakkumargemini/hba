@@ -41,11 +41,11 @@ class CountdownTimer {
             let mes = '';
             mes += `
             <p class="birth_end"> Its your birthday :)</p>
-            <a class="birth_btn" href="http://amzn.asia/cti4d0v" target="_blank">
-                For You
+            <a class="birth_btn" href="http://bestanimations.com/Holidays/Birthday/birthdaygifs/birthday-candles-happy-bday-wishes-animated-gif.gif" target="_blank">
+                Happy birthday ancu :D 
             </a>
-            <a class="birth_btn" href="http://amzn.asia/8Kh4dGA" target="_blank">
-                Here we go
+            <a class="birth_btn" href="https://i.makeagif.com/media/8-09-2015/TAMa_X.gif" target="_blank">
+                For you :)
             </a>
             `;
             document.getElementById('CDT').innerHTML = mes;
