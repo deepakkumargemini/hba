@@ -40,7 +40,7 @@ class CountdownTimer {
         } else {
             let mes = '';
             mes += `
-            <p class="birth_end">Its your birthday :)</p>
+            <p class="birth_end"> Its your birthday :)</p>
             <a class="birth_btn" href="http://amzn.asia/cti4d0v" target="_blank">
                 For You
             </a>
